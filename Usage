@@ -11,10 +11,10 @@ Usage
    Level3.py: Predictive modeling and preference analysis with navigable plots.
 
 3.Project Structure
-Level1.py: Code for Level 1 tasks.
-Level2.py: Code for Level 2 tasks.
-Level3.py: Code for Level 3 tasks (Predictive Modeling and Customer Preference Analysis).
-Dataset.csv: The input dataset (optional, include if permitted).
+   Level1.py: Code for Level 1 tasks.
+   Level2.py: Code for Level 2 tasks.
+   Level3.py: Code for Level 3 tasks (Predictive Modeling and Customer Preference Analysis).
+   Dataset.csv: The input dataset (optional, include if permitted).
 
 4.Cloning Steps
    # 1. Initialize Git repository (if not already done)
