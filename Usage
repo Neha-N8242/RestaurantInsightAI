@@ -1,0 +1,18 @@
+Usage
+1.Clone the Repository
+   bash
+   git clone https://github.com/yourusername/RestaurantInsightAI.git
+   cd RestaurantInsightAI
+2.Run the Scripts
+Use VS Code with the Python extension and Debugger (F5).
+Execute each level script:
+Level1.py: Exploratory analysis with navigable plots.
+Level2.py: Deeper analysis with navigable plots.
+Level3.py: Predictive modeling and preference analysis with navigable plots.
+
+Project Structure
+Level1.py: Code for Level 1 tasks.
+Level2.py: Code for Level 2 tasks.
+Level3.py: Code for Level 3 tasks (Predictive Modeling and Customer Preference Analysis).
+README.md: This file.
+Dataset.csv: The input dataset (optional, include if permitted).
